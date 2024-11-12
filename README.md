@@ -1,4 +1,3 @@
-# Logistic Regression:
 ## Votre Objectif
 
 Our goal is to work with the logistic_regression_dataset, where we will apply logistic regression to predict if a patient will have TenyearsCHD.
